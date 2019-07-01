@@ -5,3 +5,5 @@ Simple python script to turn your pc power off via voice control.It watches an o
 
 * [Google Sheet API](https://developers.google.com/sheets/api/quickstart/python)
 * [IFTT Applet](https://ifttt.com)
+
+[[https://github.com/schumannc/AlexaGoogleSheets/blob/master/IFTT_applets.png]]
